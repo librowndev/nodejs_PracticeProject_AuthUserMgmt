@@ -67,7 +67,7 @@ router.put("/:email", function(req, res) {
   }
 });
 
-
+//fixing it
 
 // DELETE request: Delete a friend by email id
 router.delete("/:email", (req, res) => {
